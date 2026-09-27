@@ -1,0 +1,10 @@
+C:\Users\abdin\source\repos\Studentid\Studentid\bin\Debug\Studentid.exe.config
+C:\Users\abdin\source\repos\Studentid\Studentid\bin\Debug\Studentid.exe
+C:\Users\abdin\source\repos\Studentid\Studentid\bin\Debug\Studentid.pdb
+C:\Users\abdin\source\repos\Studentid\Studentid\obj\Debug\Studentid.csproj.AssemblyReference.cache
+C:\Users\abdin\source\repos\Studentid\Studentid\obj\Debug\Studentid.Form1.resources
+C:\Users\abdin\source\repos\Studentid\Studentid\obj\Debug\Studentid.Properties.Resources.resources
+C:\Users\abdin\source\repos\Studentid\Studentid\obj\Debug\Studentid.csproj.GenerateResource.cache
+C:\Users\abdin\source\repos\Studentid\Studentid\obj\Debug\Studentid.csproj.CoreCompileInputs.cache
+C:\Users\abdin\source\repos\Studentid\Studentid\obj\Debug\Studentid.exe
+C:\Users\abdin\source\repos\Studentid\Studentid\obj\Debug\Studentid.pdb
