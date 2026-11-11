@@ -1,0 +1,10 @@
+C:\Users\Cnasi\source\repos\Software Sales Assignment\Software Sales Assignment\bin\Debug\Software Sales Assignment.exe.config
+C:\Users\Cnasi\source\repos\Software Sales Assignment\Software Sales Assignment\bin\Debug\Software Sales Assignment.exe
+C:\Users\Cnasi\source\repos\Software Sales Assignment\Software Sales Assignment\bin\Debug\Software Sales Assignment.pdb
+C:\Users\Cnasi\source\repos\Software Sales Assignment\Software Sales Assignment\obj\Debug\Software Sales Assignment.csproj.AssemblyReference.cache
+C:\Users\Cnasi\source\repos\Software Sales Assignment\Software Sales Assignment\obj\Debug\Software_Sales_Assignment.Form1.resources
+C:\Users\Cnasi\source\repos\Software Sales Assignment\Software Sales Assignment\obj\Debug\Software_Sales_Assignment.Properties.Resources.resources
+C:\Users\Cnasi\source\repos\Software Sales Assignment\Software Sales Assignment\obj\Debug\Software Sales Assignment.csproj.GenerateResource.cache
+C:\Users\Cnasi\source\repos\Software Sales Assignment\Software Sales Assignment\obj\Debug\Software Sales Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Cnasi\source\repos\Software Sales Assignment\Software Sales Assignment\obj\Debug\Software Sales Assignment.exe
+C:\Users\Cnasi\source\repos\Software Sales Assignment\Software Sales Assignment\obj\Debug\Software Sales Assignment.pdb

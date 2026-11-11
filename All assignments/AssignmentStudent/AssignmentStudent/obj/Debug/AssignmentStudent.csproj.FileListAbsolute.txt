@@ -1,0 +1,10 @@
+C:\Users\Cnasi\source\repos\AssignmentStudent\AssignmentStudent\bin\Debug\AssignmentStudent.exe.config
+C:\Users\Cnasi\source\repos\AssignmentStudent\AssignmentStudent\bin\Debug\AssignmentStudent.exe
+C:\Users\Cnasi\source\repos\AssignmentStudent\AssignmentStudent\bin\Debug\AssignmentStudent.pdb
+C:\Users\Cnasi\source\repos\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.csproj.AssemblyReference.cache
+C:\Users\Cnasi\source\repos\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.Form1.resources
+C:\Users\Cnasi\source\repos\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.Properties.Resources.resources
+C:\Users\Cnasi\source\repos\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.csproj.GenerateResource.cache
+C:\Users\Cnasi\source\repos\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.csproj.CoreCompileInputs.cache
+C:\Users\Cnasi\source\repos\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.exe
+C:\Users\Cnasi\source\repos\AssignmentStudent\AssignmentStudent\obj\Debug\AssignmentStudent.pdb

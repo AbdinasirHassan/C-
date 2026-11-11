@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cnasi\\source\\repos\\Software Sales Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{621D3C44-067E-46A5-AF9A-FDC423322928}|Software Sales Assignment\\Software Sales Assignment.csproj|c:\\users\\cnasi\\source\\repos\\software sales assignment\\software sales assignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621D3C44-067E-46A5-AF9A-FDC423322928}|Software Sales Assignment\\Software Sales Assignment.csproj|solutionrelative:software sales assignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621D3C44-067E-46A5-AF9A-FDC423322928}|Software Sales Assignment\\Software Sales Assignment.csproj|c:\\users\\cnasi\\source\\repos\\software sales assignment\\software sales assignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{621D3C44-067E-46A5-AF9A-FDC423322928}|Software Sales Assignment\\Software Sales Assignment.csproj|solutionrelative:software sales assignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cnasi\\source\\repos\\Software Sales Assignment\\Software Sales Assignment\\Form1.cs",
+              "RelativeDocumentMoniker": "Software Sales Assignment\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cnasi\\source\\repos\\Software Sales Assignment\\Software Sales Assignment\\Form1.cs",
+              "RelativeToolTip": "Software Sales Assignment\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T13:04:37.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cnasi\\source\\repos\\Software Sales Assignment\\Software Sales Assignment\\Form1.cs",
+              "RelativeDocumentMoniker": "Software Sales Assignment\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cnasi\\source\\repos\\Software Sales Assignment\\Software Sales Assignment\\Form1.cs [Design]",
+              "RelativeToolTip": "Software Sales Assignment\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T13:00:53.303Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

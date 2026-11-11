@@ -1,0 +1,10 @@
+C:\Users\Cnasi\source\repos\Airline Ticket Booking\Airline Ticket Booking\bin\Debug\Airline Ticket Booking.exe.config
+C:\Users\Cnasi\source\repos\Airline Ticket Booking\Airline Ticket Booking\bin\Debug\Airline Ticket Booking.exe
+C:\Users\Cnasi\source\repos\Airline Ticket Booking\Airline Ticket Booking\bin\Debug\Airline Ticket Booking.pdb
+C:\Users\Cnasi\source\repos\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\Airline Ticket Booking.csproj.AssemblyReference.cache
+C:\Users\Cnasi\source\repos\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\Airline_Ticket_Booking.Form1.resources
+C:\Users\Cnasi\source\repos\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\Airline_Ticket_Booking.Properties.Resources.resources
+C:\Users\Cnasi\source\repos\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\Airline Ticket Booking.csproj.GenerateResource.cache
+C:\Users\Cnasi\source\repos\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\Airline Ticket Booking.csproj.CoreCompileInputs.cache
+C:\Users\Cnasi\source\repos\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\Airline Ticket Booking.exe
+C:\Users\Cnasi\source\repos\Airline Ticket Booking\Airline Ticket Booking\obj\Debug\Airline Ticket Booking.pdb

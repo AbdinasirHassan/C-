@@ -9,7 +9,7 @@
 -- Semester and StudentId
 
 # Screenshot2
-- Storing data to variable i created 
+- Storing data to variable i created  
 ## line1
 
 storing name input form textbox 
